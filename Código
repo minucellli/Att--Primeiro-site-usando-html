@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Curso Programa Mais Web</title>
+</head>
+<body>
+    <h4><center><font color="gray" face="times new roman">Seja Bem-Vindo ao</font></center></h4>
+    <h1><center><font face="times new roman"><b>CURSO PROGRAMA MAIS WEB</b></font></center></h1>
+
+  <p><font face="times new roman">Iremos juntos aprender a dar os primeiros passos no mundo da<br> programação WEB. 
+       A grade do curso está logo abaixo. Faça os<br> exercícios, pesquise, pergunte e potencialize seus estudos.</font></p>
+
+  <h3><font face="times new roman"><b>Introdução</b></font></h3>
+    <ul>
+        <li><font face="times new roman">O que é <a href="https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content">HTML</a>?</font></li>
+        <li><font face="times new roman">O que é <a href="https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css">CSS</a>?</font></li>
+        <li><font face="times new roman">O que é <a href="https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/What_is_JavaScript">JavaScript</a>?</font></li>
+    </ul>
+
+  <h3><font face="times new roman"><b>Básico</b></font></h3>
+    <ol>
+        <li><font face="times new roman">Como criar um site?</font></li>
+        <li><font face="times new roman">Quais programas posso usar para criar um site?</font>
+            <ul type="square">
+                <li><font face="times new roman"><a href="https://www.youtube.com/watch?v=RDV4NiEB3RE#:~:text=Aprendendo%20a%20Programar%20com%20Bloco%20de%20Notas%20-,apenas%20o%20bloco%20de%20notas%20e%20seu%20navegador.">Bloco de notas</a></font></li>
+                <li><font face="times new roman"><a href="https://notepad-plus-plus.org/">Notepad++</a></font></li>
+                <li><font face="times new roman"><a href="https://www.sublimetext.com/">Sublime Text 3</a></font></li>
+                <li><font face="times new roman"><a href="https://code.visualstudio.com/">VS Code</a></font></li>
+            </ul>
+        </li>
+    </ol>
+</body>
+</html>
